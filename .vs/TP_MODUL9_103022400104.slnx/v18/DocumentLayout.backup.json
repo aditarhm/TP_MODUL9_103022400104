@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\TP_MODUL9_103022400104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F431CAC9-B377-42E9-46B0-67842C4CCD29}|TP_MODUL9_103022400104\\TP_MODUL9_103022400104.csproj|c:\\users\\acer\\source\\repos\\tp_modul9_103022400104\\tp_modul9_103022400104\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F431CAC9-B377-42E9-46B0-67842C4CCD29}|TP_MODUL9_103022400104\\TP_MODUL9_103022400104.csproj|solutionrelative:tp_modul9_103022400104\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F431CAC9-B377-42E9-46B0-67842C4CCD29}|TP_MODUL9_103022400104\\TP_MODUL9_103022400104.csproj|c:\\users\\acer\\source\\repos\\tp_modul9_103022400104\\tp_modul9_103022400104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F431CAC9-B377-42E9-46B0-67842C4CCD29}|TP_MODUL9_103022400104\\TP_MODUL9_103022400104.csproj|solutionrelative:tp_modul9_103022400104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TP_MODUL9_103022400104\\TP_MODUL9_103022400104\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400104\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TP_MODUL9_103022400104\\TP_MODUL9_103022400104\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400104\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T20:07:59.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TP_MODUL9_103022400104\\TP_MODUL9_103022400104\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400104\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TP_MODUL9_103022400104\\TP_MODUL9_103022400104\\Program.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400104\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T20:05:43.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
